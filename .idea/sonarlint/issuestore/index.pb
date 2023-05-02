@@ -25,3 +25,5 @@ C
 Seminar_4/Task_3.py,d\0\d05cce4b49cbc45eb9ef78acb0cfc6c23df5d491
 C
 Seminar_4/Task_4.py,e\c\ec272a74e7c39d5554ea5899731d49a91f3084c7
+C
+Seminar_5/Task_3.py,4\e\4ed1e47d4e0a350730c0a2c0de4923fe55d2ac8b
